@@ -7,7 +7,7 @@ class Helloworld < Formula
   license "MIT"  # or your preferred license
 
   def install
-    libexec.install "helloworld"
+    libexec.install "helloworld.scpt"
   end
 
   def post_install
